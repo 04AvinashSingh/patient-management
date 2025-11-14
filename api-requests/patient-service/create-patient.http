@@ -1,0 +1,13 @@
+
+POST http://localhost:4000/patients
+content-Type:application/json
+
+{
+  "name": "John1 Doe with billing account",
+  "email": "test1_billing_account@example.com",
+  "address": "123 main street22",
+  "dateOfBirth": "1995-09-09",
+  "registeredDate": "2024-11-28"
+}
+
+###
