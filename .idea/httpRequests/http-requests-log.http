@@ -1,3 +1,424 @@
+POST http://lb-1dd556ff.elb.localhost.localstack.cloud:4004/auth/login
+Content-Type: application/json
+Content-Length: 77
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.2.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "email":"testuser@test.com",
+  "password": "password123"
+}
+
+<> 2025-11-23T024036.500.json
+
+###
+
+GET http://localhost:4004/api/patients
+Authorization: Bearer DFGHFDTSRHGDTHFDGTYHRTY
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.2.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+###
+
+GET http://localhost:4004/api/patients
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.2.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+###
+
+GET http://localhost:4004/api/patients
+Authorization: Bearer eyJhbGciOiJIUzM4NCJ9.eyJzdWIiOiJ0ZXN0dXNlckB0ZXN0LmNvbSIsInJvbGUiOiJBRE1JTiIsImlhdCI6MTc2MzcyOTU4OCwiZXhwIjoxNzYzNzY1NTg4fQ.JJhrXWeEI4KJ2k-YP1nsvyaLRB6njDAmDufAS4lyGyPzx-qjTCL2HTu0FjOVL1oy
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.2.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-11-21T182655.200.json
+
+###
+
+POST http://localhost:4004/auth/login
+Content-Type: application/json
+Content-Length: 62
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.2.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "email":"testuser@test.com",
+  "password": "password123"
+}
+
+<> 2025-11-21T182309.200.json
+
+###
+
+GET http://localhost:4004/api/patients
+Authorization: Bearer sertryw45yetrhrthetr
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.2.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-11-20T135635.500.json
+
+###
+
+GET http://localhost:4004/api/patients
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.2.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+###
+
+GET http://localhost:4004/api/patients
+Authorization: Bearer eyJhbGciOiJIUzM4NCJ9.eyJzdWIiOiJ0ZXN0dXNlckB0ZXN0LmNvbSIsInJvbGUiOiJBRE1JTiIsImlhdCI6MTc2MzYyNTEzNCwiZXhwIjoxNzYzNjYxMTM0fQ.kpFzfQJ3fYR55h5B9IkDvV3hlf9yUUWIM976WLvId214nepoo4dFBgKt7ZRclX7F
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.2.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-11-20T132222.200.json
+
+###
+
+POST http://localhost:4004/auth/login
+Content-Type: application/json
+Content-Length: 62
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.2.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "email":"testuser@test.com",
+  "password": "password123"
+}
+
+<> 2025-11-20T132214.200.json
+
+###
+
+GET http://localhost:4004/api/patients
+Authorization: Bearer eyJhbGciOiJIUzM4NCJ9.eyJzdWIiOiJ0ZXN0dXNlckB0ZXN0LmNvbSIsInJvbGUiOiJBRE1JTiIsImlhdCI6MTc2MzYyMjQwNiwiZXhwIjoxNzYzNjU4NDA2fQ.JIvxgPUklQfe70oB8nysFBfP_f9cy8lfsZcR51XOte1ai5Zpl9IGqGsZ4nrLU9FY
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.2.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-11-20T124834.200.json
+
+###
+
+GET http://localhost:4004/api/patients
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.2.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-11-20T124814.200.json
+
+###
+
+GET http://localhost:4004/api/patients
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.2.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-11-20T124620.200.json
+
+###
+
+GET http://localhost:4004/api/patients
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.2.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-11-20T124549.200.json
+
+###
+
+GET http://localhost:4004/api/patients
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.2.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-11-20T124545.200.json
+
+###
+
+GET http://localhost:4004/api/patients
+Authorization: Bearer eyJhbGciOiJIUzM4NCJ9.eyJzdWIiOiJ0ZXN0dXNlckB0ZXN0LmNvbSIsInJvbGUiOiJBRE1JTiIsImlhdCI6MTc2MzYyMjQwNiwiZXhwIjoxNzYzNjU4NDA2fQ.JIvxgPUklQfe70oB8nysFBfP_f9cy8lfsZcR51XOte1ai5Zpl9IGqGsZ4nrLU9FY
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.2.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-11-20T124500.200.json
+
+###
+
+POST http://localhost:4004/auth/login
+Content-Type: application/json
+Content-Length: 62
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.2.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "email":"testuser@test.com",
+  "password": "password123"
+}
+
+<> 2025-11-20T123647.200.json
+
+###
+
+POST http://localhost:4004/auth/login
+Content-Type: application/json
+Content-Length: 62
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.2.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "email":"testuser@test.com",
+  "password": "password123"
+}
+
+<> 2025-11-20T114618.200.json
+
+###
+
+GET http://localhost:4004/auth/validate
+Authorization: Bearer eyJhbGciOiJIUzM4NCJ9.eyJzdWIiOiJ0ZXN0dXNlckB0ZXN0LmNvbSIsInJvbGUiOiJBRE1JTiIsImlhdCI6MTc2MzYxODkxNywiZXhwIjoxNzYzNjU0OTE3fQ.LJ5Fe9Dl9rn1LTGuc3XcL3X24MclmDyiMJmmMv6lGAus1KQvn4afFyj7oMklo1lT
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.2.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+###
+
+POST http://localhost:4004/auth/login
+Content-Type: application/json
+Content-Length: 62
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.2.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "email":"testuser@test.com",
+  "password": "password123"
+}
+
+<> 2025-11-20T113838.200.json
+
+###
+
+GET http://localhost:4005/validate
+Authorization: Bearer r98wqeeroiu3wufkkjxzshdisdh
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.2.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+###
+
+GET http://localhost:4005/validate
+Authorization: Bearer eyJhbGciOiJIUzM4NCJ9.eyJzdWIiOiJ0ZXN0dXNlckB0ZXN0LmNvbSIsInJvbGUiOiJBRE1JTiIsImlhdCI6MTc2MzU4Mzk0NSwiZXhwIjoxNzYzNjE5OTQ1fQ.sU44Z7RMDpiDC0e9Fg9L9NX4Ib25zkl90nhY6fpku6reAoqarrU1d4SUC4AvvpJX
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.2.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+###
+
+POST http://localhost:4005/login
+Content-Type: application/json
+Content-Length: 62
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.2.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "email":"testuser@test.com",
+  "password": "password123"
+}
+
+<> 2025-11-20T015546.200.json
+
+###
+
+POST http://localhost:4005/login
+Content-Type: application/json
+Content-Length: 62
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.2.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "email":"testuser@test.com",
+  "password": "password123"
+}
+
+<> 2025-11-18T131917.200.json
+
+###
+
+GET http://localhost:4004/api/patients
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.2.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-11-16T163451.200.json
+
+###
+
+POST http://localhost:4000/patients
+content-Type: application/json
+Content-Length: 172
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.2.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Joh Doe kafka test2",
+  "email": "kafka3_test@example.com",
+  "address": "123 main street22",
+  "dateOfBirth": "1995-09-09",
+  "registeredDate": "2024-11-28"
+}
+
+<> 2025-11-16T142841.200.json
+
+###
+
+POST http://localhost:4000/patients
+content-Type: application/json
+Content-Length: 172
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.2.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Joh Doe kafka test2",
+  "email": "kafka2_test@example.com",
+  "address": "123 main street22",
+  "dateOfBirth": "1995-09-09",
+  "registeredDate": "2024-11-28"
+}
+
+<> 2025-11-16T142705.200.json
+
+###
+
+POST http://localhost:4000/patients
+content-Type: application/json
+Content-Length: 172
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.2.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Joh Doe kafka test1",
+  "email": "kafka1_test@example.com",
+  "address": "123 main street22",
+  "dateOfBirth": "1995-09-09",
+  "registeredDate": "2024-11-28"
+}
+
+<> 2025-11-16T142439.200.json
+
+###
+
+POST http://localhost:4000/patients
+content-Type: application/json
+Content-Length: 170
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.2.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Joh Doe kafka test",
+  "email": "kafka_test@example.com",
+  "address": "123 main street22",
+  "dateOfBirth": "1995-09-09",
+  "registeredDate": "2024-11-28"
+}
+
+<> 2025-11-16T142330.500.json
+
+###
+
+POST http://localhost:4000/patients
+content-Type: application/json
+Content-Length: 170
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.2.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Joh Doe kafka test",
+  "email": "kafka_test@example.com",
+  "address": "123 main street22",
+  "dateOfBirth": "1995-09-09",
+  "registeredDate": "2024-11-28"
+}
+
+<> 2025-11-16T142027.200.json
+
+###
+
+POST http://localhost:4000/patients
+content-Type: application/json
+Content-Length: 189
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.2.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "Joh Doe with billing account",
+  "email": "tes_billing_account@example.com",
+  "address": "123 main street22",
+  "dateOfBirth": "1995-09-09",
+  "registeredDate": "2024-11-28"
+}
+
+<> 2025-11-14T161916.200.json
+
+###
+
+POST http://localhost:4000/patients
+content-Type: application/json
+Content-Length: 193
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.2.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "John2 Doe with billing account",
+  "email": "test2_billing_account@example.com",
+  "address": "123 main street22",
+  "dateOfBirth": "1995-09-09",
+  "registeredDate": "2024-11-28"
+}
+
+<> 2025-11-14T161812.500.json
+
+###
+
+POST http://localhost:4000/patients
+content-Type: application/json
+Content-Length: 193
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.2.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "name": "John1 Doe with billing account",
+  "email": "test1_billing_account@example.com",
+  "address": "123 main street22",
+  "dateOfBirth": "1995-09-09",
+  "registeredDate": "2024-11-28"
+}
+
+<> 2025-11-14T161634.500.json
+
+###
+
 POST http://localhost:4000/patients
 content-Type: application/json
 Content-Length: 193
