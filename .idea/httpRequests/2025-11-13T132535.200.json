@@ -1,0 +1,7 @@
+{
+  "id": "ffd1d0e1-1f81-47e6-9759-f25ae7d338e5",
+  "name": "John Doe with billing account",
+  "email": "test_billing_account@example.com",
+  "address": "123 main street22",
+  "dateOfBirth": "1995-09-09"
+}
