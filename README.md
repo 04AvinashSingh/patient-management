@@ -41,16 +41,16 @@ The project uses a **multi-module microservices architecture**, with each servic
 
 ## 🚀 Features
 
-✔ **Modular Microservices**  
-✔ **JWT-based authentication**  
-✔ **Kafka event streaming**  
-✔ **gRPC communication between services**  
-✔ **Dockerized services for easy deployment**  
-✔ **Infrastructure-as-Code with AWS CDK**  
-✔ **Local AWS emulation using LocalStack**  
-✔ **PostgreSQL database provisioning**  
-✔ **API Gateway with filters & exception handling**  
-✔ **Full integration tests: Auth + Patient + Gateway**  
+ **Modular Microservices**  
+ **JWT-based authentication**  
+ **Kafka event streaming**  
+ **gRPC communication between services**  
+ **Dockerized services for easy deployment**  
+ **Infrastructure-as-Code with AWS CDK**  
+ **Local AWS emulation using LocalStack**  
+ **PostgreSQL database provisioning**  
+ **API Gateway with filters & exception handling**  
+ **Full integration tests: Auth + Patient + Gateway**  
 
 
 
